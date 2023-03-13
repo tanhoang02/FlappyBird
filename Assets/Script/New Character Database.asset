@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7736d1c791fb4e648aea874eaa216db2, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Bird
+    characterSprite: {fileID: 1768210679, guid: 89cb943b777dd5041a08712c64a1db32, type: 3}
+    CharacterRuntimeAnimatorController: {fileID: 9100000, guid: d869a855efa2658489d339d4cdb844a8, type: 2}
+  - characterName: Turtle Nomal
+    characterSprite: {fileID: -231554015, guid: 0d5ea4e2ead04234b80fbec2fd7a79e6, type: 3}
+    CharacterRuntimeAnimatorController: {fileID: 9100000, guid: a42a4caa4cefcfa4798328cb17bfddba, type: 2}
+  - characterName: King Turtle
+    characterSprite: {fileID: 232781847, guid: 411d878eb17cef44ea6ffb3bcf98831c, type: 3}
+    CharacterRuntimeAnimatorController: {fileID: 9100000, guid: 9694c88a3733732419504f43c4d960ad, type: 2}
